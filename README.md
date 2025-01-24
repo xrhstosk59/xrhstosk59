@@ -24,6 +24,6 @@ E-commerce platform for custom hand-knitted dolls. Built with Next.js and a user
 ---
 
 ### 📫 Contact
-- **Email:** chris@example.com
+- **Email:** xrhstosk59@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
 - **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)
