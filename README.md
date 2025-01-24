@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! I'm Chris
 
-<!--
-**xrhstosk59/xrhstosk59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student** at Democritus University of Thrace.  
+🌐 **Web Developer** | Frontend & Backend enthusiast.  
+💡 Passionate about **technology**, **fitness**, and **investing**.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Frontend:** React.js, Next.js, CSS Modules, Tailwind CSS
+- **Backend:** Node.js, Express.js, Drizzle ORM
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, VS Code, XAMPP
+- **Other Interests:** AI, Crypto, Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### [Bluewave Properties](https://github.com/your-repo-link)
+Real estate platform similar to Booking, focusing on modern UI/UX and efficient backend with PostgreSQL and Drizzle ORM.
+
+### [Witchy Stitches](https://github.com/your-repo-link)
+E-commerce platform for custom hand-knitted dolls. Built with Next.js and a user-friendly design.
+
+## 📈 GitHub Stats
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-dev&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact
+- **Email:** chris@example.com
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)
