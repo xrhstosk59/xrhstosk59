@@ -41,5 +41,5 @@ An app designed to simplify trip planning with modern features and a user-friend
 ## 📫 Contact
 - **Email:** xrhstosk59@gmail.com  
 - **Phone:** +30 6982031371  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/christoskerigkas)  
-- **Portfolio:** [Your Portfolio](https://christoskerigkas.com)
+- **LinkedIn:** [ChristosKerigkas](https://linkedin.com/in/christoskerigkas)  
+- **Portfolio:** [ChristosKerigkas](https://christoskerigkas.com)
