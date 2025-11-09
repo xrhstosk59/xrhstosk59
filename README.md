@@ -1,12 +1,8 @@
 # Hello, I'm Christos Kerigkas 👋
 
-I'm a **Full Stack Developer** and **Computer Science Student** at **Democritus University of Thrace**, Kavala, Greece.
+I am an undergraduate student at **Democritus University of Thrace**, passionate about developing websites and mobile applications. I actively create and experiment with them in my free time, continuously improving my skills and exploring the use of artificial intelligence in their development.
 
-I build web applications using **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**. I also have experience with **C++** and **JavaFX** for desktop applications.
-
-Working with modern services like **Supabase**, **Sentry**, and **Upstash**, and developing various projects ranging from real estate platforms to trading tools.
-
-Open to collaborations on interesting projects!
+Although I am at the beginning of my career, I am excited to grow and contribute to impactful projects. I am open to new opportunities and collaborations—feel free to reach out!
 
 ---
 
