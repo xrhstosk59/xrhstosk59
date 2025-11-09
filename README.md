@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 
 - 🎓 Studying Computer Science at **Democritus University of Thrace**, Kavala, Greece.  
 - 💻 Currently working on multiple projects, including **Bluewave Properties** and **Travel Planner**.  
-- 🚀 I’m open to collaborations on **Web Development**, **Crypto Projects**, and **Trading Tools**.  
+- 🚀 I'm open to collaborations on **Web Development** and various projects (I've also worked with crypto tools and trading systems).  
 - 🌱 Exploring **Three.js** and **Supabase**.
 
 ---
@@ -26,11 +26,14 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## ⚙️ Technologies & Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-20232A?style=for-the-badge&logo=drizzle&logoColor=blue)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,20 +43,15 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 ---
 
 ## 🚀 Projects:
-### [Bluewave Properties](https://github.com/your-repo-link)
-A real estate platform focusing on seamless user experience and backend efficiency.
 
-### [Sniper4Crypto](https://github.com/your-repo-link)
-Advanced tools for crypto traders.
+### Public Projects:
+- **[Travel Planner](https://github.com/xrhstosk59/travel-planner)** - A web app for simplifying trip planning
+- **[Personal Website](https://christoskerigkas.com)** - My portfolio showcasing skills, experience, and projects
 
-### [Smart Trading Bot](https://github.com/your-repo-link)
-Automated trading bot for financial markets.
-
-### [Travel Planner](https://github.com/your-repo-link)
-A web app for simplifying trip planning.
-
-### [Personal Website](https://github.com/your-repo-link)
-A portfolio to showcase my skills, experience, and projects.
+### Other Projects I'm Working On:
+- **Bluewave Properties** - Real estate platform with focus on seamless UX and backend efficiency using Next.js, PostgreSQL, and Supabase
+- **Crypto Trading Tools** - Private projects including automated trading systems and market analysis tools built with Python and TypeScript
+- **JavaFX Applications** - Desktop applications developed using Java and JavaFX for various use cases
 
 ---
 
