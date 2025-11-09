@@ -10,6 +10,21 @@ Open to collaborations on interesting projects!
 
 ---
 
+## 💼 Experience:
+
+**Technical Support - ICT Department**
+Δήμος Νέας Προποντίδας Νομού Χαλκιδικής · Part-time
+May 2025 - July 2025 · 3 months
+Chalkidiki, Greece · On-site
+
+- Network administration for central and peripheral systems (wired & wireless)
+- Maintenance and troubleshooting of ICT equipment
+- Data security and improvement of usability for municipal websites and databases
+- Web development and maintenance of municipal websites
+- Active Directory support
+
+---
+
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/christoskerigkas"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
