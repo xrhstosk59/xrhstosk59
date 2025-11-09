@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** and **Computer Science Student** at **Democritus 
 
 I build web applications using **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**. I also have experience with **C++** and **JavaFX** for desktop applications.
 
-Currently exploring **Three.js** and **Supabase**, and working on various projects ranging from real estate platforms to trading tools.
+Working with modern services like **Supabase**, **Sentry**, and **Upstash**, and developing various projects ranging from real estate platforms to trading tools.
 
 Open to collaborations on interesting projects!
 
