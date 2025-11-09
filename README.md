@@ -45,13 +45,17 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 ## 🚀 Projects:
 
 ### Public Projects:
-- **[Travel Planner](https://github.com/xrhstosk59/travel-planner)** - A web app for simplifying trip planning
-- **[Personal Website](https://christoskerigkas.com)** - My portfolio showcasing skills, experience, and projects
+- **[Zoo Management System](https://github.com/xrhstosk59/zoo)** - A comprehensive zoo management application
+- **[Warrior vs Aliens](https://github.com/xrhstosk59/warrior-vs-aliens)** - An interactive game project
 
-### Other Projects I'm Working On:
-- **Bluewave Properties** - Real estate platform with focus on seamless UX and backend efficiency using Next.js, PostgreSQL, and Supabase
-- **Crypto Trading Tools** - Private projects including automated trading systems and market analysis tools built with Python and TypeScript
-- **JavaFX Applications** - Desktop applications developed using Java and JavaFX for various use cases
+### Private Projects I'm Working On:
+- **Travel Planner** - Web app for simplifying trip planning with itinerary management
+- **Bluewave Properties** - Real estate platform with seamless UX and backend efficiency using Next.js, PostgreSQL, and Supabase
+- **Wait Less** - Queue management system for optimizing wait times
+- **Grade Calculator** - Academic tool for grade calculation and tracking
+- **Smart Trading Bot** - Automated trading bot for financial markets
+- **SaaS Dashboard Template** - Reusable dashboard template for SaaS applications
+- **Sniper4Crypto** - Advanced tools for crypto traders and market analysis
 
 ---
 
