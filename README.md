@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 - 🎓 Studying Computer Science at **Democritus University of Thrace**, Kavala, Greece.  
 - 💻 Currently working on multiple projects, including **Bluewave Properties** and **Travel Planner**.  
 - 🚀 I’m open to collaborations on **Web Development**, **Crypto Projects**, and **Trading Tools**.  
-- 🌱 Exploring **Three.js**, **Supabase**, and **Drizzle ORM**.
+- 🌱 Exploring **Three.js** and **Supabase**.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 
 ## ⚙️ Technologies & Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-20232A?style=for-the-badge&logo=drizzle&logoColor=blue)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
