@@ -53,25 +53,18 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 
 ### In Development (Private):
 - **Bluewave Properties** - Modern real estate platform featuring property listings, virtual tours, and client management
-  - *Tech Stack: Next.js, TypeScript, PostgreSQL, Supabase, TailwindCSS*
 
 - **Travel Planner** - Intelligent trip planning application with itinerary management, budget tracking, and destination recommendations
-  - *Tech Stack: React, Node.js, MongoDB*
 
 - **Wait Less** - Smart queue management system designed to optimize wait times for businesses and improve customer experience
-  - *Tech Stack: Next.js, Real-time WebSockets*
 
 - **Smart Trading Bot** - Automated trading system with market analysis, risk management, and backtesting capabilities
-  - *Tech Stack: Python, Machine Learning, REST APIs*
 
 - **Sniper4Crypto** - Advanced cryptocurrency trading tools with real-time market monitoring and automated execution
-  - *Tech Stack: TypeScript, WebSockets, Crypto APIs*
 
 - **SaaS Dashboard Template** - Production-ready dashboard template with authentication, analytics, and subscription management
-  - *Tech Stack: Next.js, TypeScript, Stripe, Supabase*
 
 - **Grade Calculator** - Academic productivity tool for students to calculate and track their grades throughout the semester
-  - *Tech Stack: React, Local Storage*
 
 ---
 
