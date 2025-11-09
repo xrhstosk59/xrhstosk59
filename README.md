@@ -12,10 +12,10 @@ Open to collaborations on interesting projects!
 
 ## 💼 Experience:
 
-**Technical Support - ICT Department**
-Δήμος Νέας Προποντίδας Νομού Χαλκιδικής · Part-time
+**Internship - ICT Department**
+Δήμος Νέας Προποντίδας Νομού Χαλκιδικής
 May 2025 - July 2025 · 3 months
-Chalkidiki, Greece · On-site
+Chalkidiki, Greece
 
 - Network administration for central and peripheral systems (wired & wireless)
 - Maintenance and troubleshooting of ICT equipment
