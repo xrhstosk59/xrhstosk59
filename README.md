@@ -1,11 +1,14 @@
 # Hello, I'm Christos Kerigkas 👋
 
-I'm a **Full Stack Developer** and **Computer Science Student** passionate about building efficient and scalable web applications.
+I'm a **Full Stack Developer** and **Computer Science Student** passionate about building efficient, scalable, and user-friendly applications. I enjoy solving complex problems and turning ideas into functional software.
 
-- 🎓 Studying Computer Science at **Democritus University of Thrace**, Kavala, Greece.  
-- 💻 Currently working on multiple projects, including **Bluewave Properties** and **Travel Planner**.  
-- 🚀 I'm open to collaborations on **Web Development** and various projects (I've also worked with crypto tools and trading systems).  
-- 🌱 Exploring **Three.js** and **Supabase**.
+## About Me
+- 🎓 Studying **Computer Science** at **Democritus University of Thrace**, Kavala, Greece
+- 💻 Experienced in building full-stack web applications with modern technologies
+- 🔧 Working on diverse projects from real estate platforms to trading systems
+- 🚀 Open to collaborations on **Web Development**, **SaaS Applications**, and innovative tech projects
+- 🌱 Currently exploring **Three.js** for 3D web experiences and **Supabase** for backend solutions
+- 💡 Background in **C++** and **JavaFX** for desktop applications, with expertise in **JavaScript/TypeScript** ecosystems
 
 ---
 
@@ -42,20 +45,33 @@ I'm a **Full Stack Developer** and **Computer Science Student** passionate about
 
 ---
 
-## 🚀 Projects:
+## 🚀 Featured Projects:
 
-### Public Projects:
-- **[Zoo Management System](https://github.com/xrhstosk59/zoo)** - A comprehensive zoo management application
-- **[Warrior vs Aliens](https://github.com/xrhstosk59/warrior-vs-aliens)** - An interactive game project
+### Open Source:
+- **[Zoo Management System](https://github.com/xrhstosk59/zoo)** - Comprehensive zoo management application with animal tracking, feeding schedules, and visitor management features
+- **[Warrior vs Aliens](https://github.com/xrhstosk59/warrior-vs-aliens)** - Interactive game built with modern web technologies
 
-### Private Projects I'm Working On:
-- **Travel Planner** - Web app for simplifying trip planning with itinerary management
-- **Bluewave Properties** - Real estate platform with seamless UX and backend efficiency using Next.js, PostgreSQL, and Supabase
-- **Wait Less** - Queue management system for optimizing wait times
-- **Grade Calculator** - Academic tool for grade calculation and tracking
-- **Smart Trading Bot** - Automated trading bot for financial markets
-- **SaaS Dashboard Template** - Reusable dashboard template for SaaS applications
-- **Sniper4Crypto** - Advanced tools for crypto traders and market analysis
+### In Development (Private):
+- **Bluewave Properties** - Modern real estate platform featuring property listings, virtual tours, and client management
+  - *Tech Stack: Next.js, TypeScript, PostgreSQL, Supabase, TailwindCSS*
+
+- **Travel Planner** - Intelligent trip planning application with itinerary management, budget tracking, and destination recommendations
+  - *Tech Stack: React, Node.js, MongoDB*
+
+- **Wait Less** - Smart queue management system designed to optimize wait times for businesses and improve customer experience
+  - *Tech Stack: Next.js, Real-time WebSockets*
+
+- **Smart Trading Bot** - Automated trading system with market analysis, risk management, and backtesting capabilities
+  - *Tech Stack: Python, Machine Learning, REST APIs*
+
+- **Sniper4Crypto** - Advanced cryptocurrency trading tools with real-time market monitoring and automated execution
+  - *Tech Stack: TypeScript, WebSockets, Crypto APIs*
+
+- **SaaS Dashboard Template** - Production-ready dashboard template with authentication, analytics, and subscription management
+  - *Tech Stack: Next.js, TypeScript, Stripe, Supabase*
+
+- **Grade Calculator** - Academic productivity tool for students to calculate and track their grades throughout the semester
+  - *Tech Stack: React, Local Storage*
 
 ---
 
