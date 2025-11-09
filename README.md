@@ -1,12 +1,8 @@
 # Hello, I'm Christos Kerigkas 👋
 
-I'm a **Full Stack Developer** and **Computer Science Student** at **Democritus University of Thrace**, Kavala, Greece.
+I am an undergraduate student at **Democritus University of Thrace**, passionate about developing websites and mobile applications. I actively create and experiment with them in my free time, continuously improving my skills and exploring the use of artificial intelligence in their development.
 
-I build web applications using **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**. I also have experience with **C++** and **JavaFX** for desktop applications.
-
-Working with modern services like **Supabase**, **Sentry**, and **Upstash**, and developing various projects ranging from real estate platforms to trading tools.
-
-Open to collaborations on interesting projects!
+Although I am at the beginning of my career, I am excited to grow and contribute to impactful projects. I am open to new opportunities and collaborations—feel free to reach out!
 
 ---
 
@@ -38,6 +34,7 @@ Chalkidiki, Greece
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
