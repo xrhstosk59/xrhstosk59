@@ -62,7 +62,7 @@ Chalkidiki, Greece
 ### Open Source:
 - **[Zoo Management System](https://github.com/xrhstosk59/zoo)** - Comprehensive zoo management application with animal tracking, feeding schedules, and visitor management features
 - **[Warrior vs Aliens](https://github.com/xrhstosk59/warrior-vs-aliens)** - Interactive game built with modern web technologies
-- **[SQLantch](https://github.com/xrhstosk59/SQLantch)** - SQL query builder and database management tool
+- **[SQLatch](https://github.com/xrhstosk59/SQLatch)** - SQL query builder and database management tool
 
 ### In Development (Private):
 - **Bluewave Properties** - Modern real estate platform featuring property listings, virtual tours, and client management
