@@ -83,8 +83,8 @@ Chalkidiki, Greece
 ---
 
 ## 📊 GitHub Stats:
-![Christos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrhstosk59&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosk59&layout=compact&theme=radical)
+![Christos's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xrhstosk59&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xrhstosk59&layout=compact&theme=radical)
 
 ---
 
