@@ -50,8 +50,11 @@ Municipality of Nea Propontida, Chalkidiki
 - **[Warrior vs Aliens](https://github.com/xrhstosk59/warrior-vs-aliens)**  
   Java semester project focused on object-oriented programming and the Strategy / Observer design patterns.
 
+- **[Car Station](https://github.com/xrhstosk59/car-station)**  
+  University JavaFX semester project that I later improved with a Maven-based structure, SQLite-backed workflows, and project cleanup.
+
 - **[Zoo Management System](https://github.com/xrhstosk59/zoo)**  
-  University project for managing animals, records, and related operations in a structured application.
+  University semester web project for managing animals, records, tickets, events, and related operations in a structured application.
 
 ### Other Practice / Exploratory Projects
 
