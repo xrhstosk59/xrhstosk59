@@ -44,6 +44,9 @@ Municipality of Nea Propontida, Chalkidiki
 - **[Christos Kerigkas Portfolio](https://github.com/xrhstosk59/christos-kerigkas)**  
   Personal portfolio and CV website built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 
+- **[Travel Planner](https://github.com/xrhstosk59/travel-planner)**  
+  Diploma thesis web application for trip planning, local recommendations, itinerary workflows, and AI-assisted planning features.
+
 - **[SQLatch](https://github.com/xrhstosk59/SQLatch)**  
   University SQL learning project that I later improved with additional maintenance, UI refinements, documentation updates, and AI-assisted tooling.
 
@@ -58,11 +61,11 @@ Municipality of Nea Propontida, Chalkidiki
 
 ### Other Practice / Exploratory Projects
 
-- **Travel Planner** - Web app for trip planning and itinerary-related features
 - **Wait Less** - Queue management system for businesses
 - **Bluewave Properties** - Practice real estate platform
 - **SaaS Dashboard Template** - Learning-focused dashboard template
 - **Grade Calculator** - Academic productivity tool for students
+- **Quiz Master** - Small JavaFX learning project
 
 ---
 
