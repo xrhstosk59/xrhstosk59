@@ -141,11 +141,4 @@ Personal portfolio and CV website — [christoskerigkas.com](https://christosker
 
 ---
 
-## 📊 GitHub Stats
-
-![Christos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrhstosk59&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosk59&layout=compact&theme=radical)
-
----
-
 Thanks for visiting my profile.
